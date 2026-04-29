@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi there, I'm Ear Kimseng 👋
 
-<!--
-**Kimseng-Ear/Kimseng-Ear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a final-year Computer Science student with a strong passion for software development, data analytics, cloud technologies, and AI engineering. I enjoy building practical and visually engaging projects that combine problem-solving, data-driven insights, and modern technologies.
 
-Here are some ideas to get you started:
+My technical interests include Python, SQL, data visualization, Power BI, web development, cloud computing, DevOps, and AI-powered applications. I am especially interested in creating systems that transform raw data into meaningful insights and interactive user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have worked on projects involving:
+
+📊 Data Analytics & Dashboards
+🌍 Interactive 3D Visualization Projects
+☁️ Cloud & Azure-related Solutions
+🤖 AI and Data Engineering Workflows
+🌐 Modern Web Development Projects
+🛠 Database Design & Management Systems
+
+I am continuously learning and exploring technologies such as Docker, CI/CD, DevOps workflows, cloud infrastructure, and machine learning applications.
+
+My goal is to become a Data & AI Engineer / Software Engineer who builds impactful solutions that solve real-world problems through technology.
+
+Tech Stack
+
+Languages: Python, SQL, JavaScript, HTML, CSS
+Tools: Power BI, Excel, Git, GitHub, Docker
+Cloud: Azure, Cloud Fundamentals
+Other: Data Analysis, Reporting, Dashboard Design, Database Systems
+
+🚀 Always building, learning, and improving.
